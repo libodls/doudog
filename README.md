@@ -1,4 +1,4 @@
-# doudog
+# DouDog
 A small program imitating Linux bash.
 
 Welcome to DouDog!
