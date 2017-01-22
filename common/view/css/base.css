@@ -1,0 +1,24 @@
+/*********************************************************************
+ > Author:libo
+ > Mail:libodls@139.com
+**********************************************************************/
+
+body {
+	margin:0px 0px 0px 0px;
+	padding:10px 5px 5px 5px;
+	font-size:14px;
+	font-family:"Helvetica", "Courier", "黑体", "宋体", sans-serif;
+	text-align:left;
+	color:#ffffff;
+	background:#000000;
+}
+div {
+	margin:0px;
+	padding:0px;
+	font-family:"Helvetica", "Courier", "黑体", "宋体", sans-serif;
+	text-align:left;
+}
+form {
+	margin:0px;
+	padding:0px;
+}
