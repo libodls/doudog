@@ -10,4 +10,4 @@ You can login by guest, the password is null, just null!
 When you login, You can try to enter command clear tm and exit.
 
 website:http://www.xzlib.com
-blog:http://blog.xzlib.com
+myblog:http://blog.xzlib.com
